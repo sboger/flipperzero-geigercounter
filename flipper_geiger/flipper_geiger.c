@@ -14,8 +14,8 @@
 #define SCREEN_SIZE_X 128
 #define SCREEN_SIZE_Y 64
 
-// FOR J305 GEIGER TUBE
-#define CONVERSION_FACTOR 0.0081
+// FOR GGreg20_V3 GEIGER TUBE
+#define CONVERSION_FACTOR 0.0054
 
 typedef enum {
     EventTypeInput,
